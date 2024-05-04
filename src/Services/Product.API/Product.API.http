@@ -1,6 +1,6 @@
 @Product.API_HostAddress = http://localhost:5177
 
-GET {{Product.API_HostAddress}}/weatherforecast/
+GET {{Product.API_HostAddress}}/
 Accept: application/json
 
 ###
